@@ -42,8 +42,8 @@ My academic background in topological metric spaces and linear algebra isn't jus
 
 ###  Connect with Me
 
-- 💼 **LinkedIn:** []
-- 📧 **Email:** []
+- 💼 **LinkedIn:** [www.linkedin.com/in/hyacinte-dev]
+- 📧 **Email:** [hyacintedev@gmail.com]
 - 🌍 **Portfolio:** []
 
 *"First, solve the problem. Then, write the code."*
