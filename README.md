@@ -10,8 +10,8 @@ I combine the analytical rigor and logical problem-solving of mathematics with m
 
 *   **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
 *   **Front-End:** React, Next.js, Tailwind CSS, Responsive Design
-*   **Back-End & Databases:** Node.js, Express, PostgreSQL, MySQL
-*   **Tools & Workflow:** Git, GitHub, VS Code, Vercel
+*   **Back-End & Databases:** Node.js, Express, PostgreSQL, REST API, Authentication
+*   **Tools & Workflow:** Git, GitHub, VS Code, Vercel, supabase, Payment integration
 
 ---
 
@@ -21,7 +21,7 @@ Here are some of my recent works. I focus on clean code, solid architecture, and
 
 -  **[bel-azure-hotel-reservation](https://github.com/hyacinte-dev/bel-azure-hotel-reservation)** 
   A real-time hotel reservation system built to manage bookings efficiently.
-  - *Stack:* ReactJs, tailwindcss, nodejs, express
+  - *Stack:* ReactJs, tailwindcss, nodejs, express, mongodb,rest api
 
 -  **[shopping-e-commerce](https://github.com/hyacinte-dev/shopping-e-commerce)**
   A showcase e-commerce website with product displays and cart functionalities.
@@ -29,7 +29,7 @@ Here are some of my recent works. I focus on clean code, solid architecture, and
 
 -  **[cours_assistance_app](https://github.com/hyacinte-dev/cours_assistance_app)**
   An educational assistance web application initialization.
-  - *Stack:* Next.js, TypeScript, 
+  - *Stack:* Next.js, TypeScript, tailwindcss, sql, rest api
   - 🔗 [Live Demo](https://fichesplus.vercel.app) 
 
 ---
