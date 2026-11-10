@@ -1,4 +1,8 @@
-# Hi there, I'm Hyacinte Ouédraogo 👋
+# Hi there, I'm Hyacinte Ouédraogo 
+
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyacintedev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hyacintedev)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Hyacinte.Dev)
 
  **3rd-Year Mathematics Student** &  **Full-Stack Web Developer** based in Kaya, Burkina Faso.
 
@@ -8,42 +12,28 @@ I combine the analytical rigor and logical problem-solving of mathematics with m
 
 ###  Tech Stack & Tools
 
-*   **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
-*   **Front-End:** React, Next.js, Tailwind CSS, Responsive Design
-*   **Back-End & Databases:** Node.js, Express, PostgreSQL, REST API, Authentication
-*   **Tools & Workflow:** Git, GitHub, VS Code, Vercel, supabase, Payment integration
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,git,github,vscode,html,css,supabase,vercel,linux)](https://skillicons.dev)
+
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://oauth.net/2/)
+---
+
+### Engineering Mindset
+
+- Build before talking
+- Security first
+- Clean architecture
+- Continuous learning
+- Pratical problem solving
 
 ---
 
-###  Featured Projects
-
-Here are some of my recent works. I focus on clean code, solid architecture, and real-world utility.
-
--  **[bel-azure-hotel-reservation](https://github.com/hyacinte-dev/bel-azure-hotel-reservation)** 
-  A real-time hotel reservation system built to manage bookings efficiently.
-  - *Stack:* ReactJs, tailwindcss, nodejs, express, mongodb,rest api
-
--  **[shopping-e-commerce](https://github.com/hyacinte-dev/shopping-e-commerce)**
-  A showcase e-commerce website with product displays and cart functionalities.
-  - *Stack:* JavaScript, HTML, CSS
-
--  **[cours_assistance_app](https://github.com/hyacinte-dev/cours_assistance_app)**
-  An educational assistance web application initialization.
-  - *Stack:* Next.js, TypeScript, tailwindcss, sql, rest api
-  - 🔗 [Live Demo](https://fichesplus.vercel.app) 
-
----
-
-###  Why Math & Code?
-
-My academic background in topological metric spaces and linear algebra isn't just theory—it trains me to break down complex systems, optimize database queries, and write algorithms with efficiency in mind.
-
----
 
 ###  Connect with Me
 
-- 💼 **LinkedIn:** [www.linkedin.com/in/hyacinte-dev]
-- 📧 **Email:** [hyacintedev@gmail.com]
-- 🌍 **Portfolio:** []
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyacintedev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hyacintedev)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Hyacinte.Dev)
+
 
 *"First, solve the problem. Then, write the code."*
